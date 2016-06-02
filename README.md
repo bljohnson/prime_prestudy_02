@@ -1,4 +1,4 @@
-<h3> prime_prestudy_02 </h3>
+<h3>prime_prestudy_02</h3>
 
 For this assessment, download the file located here: http://goo.gl/EhXfQq
 
